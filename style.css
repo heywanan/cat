@@ -1,0 +1,19 @@
+.all-view{
+    width: 600px;
+    margin: auto;
+    background-color: white;
+}
+body{
+    background-color: pink;
+}
+#title{
+    text-align: center;
+    font-size: 40px;
+}
+#title2{
+    text-align: center;
+}
+.take-care-point{
+    width: 200px;
+    margin:auto;
+}
