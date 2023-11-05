@@ -1,0 +1,28 @@
+.picture-view{
+    width: 600px;
+    margin: auto;
+    background-color: white;
+    
+}
+body{
+    background-color: pink;
+}
+#cat1{
+    width: 600px;
+    height: 600px;
+}
+
+#cat2{
+    width: 600px;
+    height: 300px;
+}
+
+#cat3{
+    width: 600px;
+    height: 500px;
+    
+}
+
+h1{
+    text-align: center;
+}
